@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae2910b40e8de534d8a6ddd8e2c2a8e4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19811
+  packageName: Point Cloud Free Viewer
+  packageVersion: 0.2
+  assetPath: Assets/PointCloud/Shaders/VertexColor.shader
+  uploadId: 8920

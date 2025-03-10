@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79e3112a35697b94c87aa8093c7f9cf4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19811
+  packageName: Point Cloud Free Viewer
+  packageVersion: 0.2
+  assetPath: Assets/PointCloud/Example.unity
+  uploadId: 8920

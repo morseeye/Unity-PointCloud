@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 277f66a0ffcbb5b44b4152f4433d8e8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19811
+  packageName: Point Cloud Free Viewer
+  packageVersion: 0.2
+  assetPath: Assets/PointCloud/Scripts/EnablePointSize.cs
+  uploadId: 8920
