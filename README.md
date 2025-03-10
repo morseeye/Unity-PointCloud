@@ -1,2 +1,3 @@
 # Unity-PointCloud
 允许在Unity中上传PLY和OFF格式的点云文件
+将PoinCloud文件夹下的Scripts中的EnablePointSize脚本挂载到相机上，然后在场景中创建一个新的GameObject，将PointCloudManager脚本挂载在GameObject上，将DataPath改为off或者ply文件的路径，将Mat Vertex设置为VertexColor
